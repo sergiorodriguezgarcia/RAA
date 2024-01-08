@@ -6,6 +6,11 @@ public class ColoresGame : MonoBehaviour
 {
 
     public GameObject semaforo;
+    public GameObject puerta;
+// dos audios
+    public AudioClip correcto;
+    public AudioClip incorrecto;
+
     List<int> correctOrder = new List<int> {0, 1, 2, 3}; // Cambia esto al orden correcto de tus elementos
     List<int> userSelection = new List<int>();
 
@@ -48,6 +53,8 @@ public class ColoresGame : MonoBehaviour
                 // el color del objeto semaforo se pone a Color.red
                 semaforo.GetComponent<Renderer>().material.color = Color.red;
 
+                // reproduce el audio incorrecto
+                AudioSource.PlayClipAtPoint(incorrecto, transform.position);
 
 
                 userSelection.Clear();
@@ -56,6 +63,12 @@ public class ColoresGame : MonoBehaviour
         }
         semaforo.GetComponent<Renderer>().material.color = Color.green;
         Debug.Log("Correcto");
+        // pone el bool Open del animator de la puerta en true
+        puerta.GetComponent<Animator>().SetBool("Open", true);
+
+        // reproduce el audio correcto
+        AudioSource.PlayClipAtPoint(correcto, transform.position);
+
     }
     
 }
