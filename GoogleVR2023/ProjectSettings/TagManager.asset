@@ -9,6 +9,7 @@ TagManager:
   - RabbitHole
   - zonaDeteccion
   - chest
+  - NPC
   layers:
   - Default
   - TransparentFX
