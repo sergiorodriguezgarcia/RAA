@@ -58,7 +58,7 @@ public class MovementWithConversation : MonoBehaviour
         if (hit.gameObject.CompareTag(goal))
         {
             Debug.Log("¡El feriante ha detectado a nuestro protagonista!");
-            
+            SceneManager.LoadScene(nextScene);
         }        
     }
 }

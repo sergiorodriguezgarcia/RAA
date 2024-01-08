@@ -18,8 +18,8 @@ using System.Configuration.Assemblies;
 public class TextDialogueTwoOptions : MonoBehaviour
 {
     // * Class properties for two NPCs and conversations *
-    public string NPC1Tag,NPC2Tag,NPC3Tag;
-    public NPCConversation NPC1Conversation,NPC2Conversation,NPC3Conversation;
+    public string NPC1Tag,NPC2Tag,NPC3Tag,NPC4Tag;
+    public NPCConversation NPC1Conversation,NPC2Conversation,NPC3Conversation,NPC4Conversation;
     
     private bool selectUp, selectDown = false;
     private float verticalAxis;
@@ -94,9 +94,17 @@ public class TextDialogueTwoOptions : MonoBehaviour
             
         }
 
+        if (collider.gameObject.CompareTag(NPC4Tag))
+        {
+            ConversationManager.Instance.StartConversation(NPC4Conversation);
+
+
+
+        }
+
         // if(collider.gameObject.CompareTag(NPC2Tag))
         // {
-            
+
         //     if(puedeMarchar){
         //         if(!opened) {
         //           puerta.GetComponent<Animator>().SetBool("doorRotation",true);
@@ -105,7 +113,7 @@ public class TextDialogueTwoOptions : MonoBehaviour
         //     }else{
         //         ConversationManager.Instance.StartConversation(NPC2Conversation);
         //     }
-            
+
         // }
     }
 
@@ -132,5 +140,11 @@ public class TextDialogueTwoOptions : MonoBehaviour
             ConversationManager.Instance.EndConversation();
             controler.ResetPlayer();
         }
-     }
+        if (collider.gameObject.CompareTag(NPC4Tag))
+        {
+
+            ConversationManager.Instance.EndConversation();
+            controler.ResetPlayer();
+        }
+    }
 }

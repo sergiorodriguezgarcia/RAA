@@ -10,6 +10,7 @@ TagManager:
   - zonaDeteccion
   - chest
   - NPC
+  - ayuda
   layers:
   - Default
   - TransparentFX
