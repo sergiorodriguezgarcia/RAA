@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - zonaDeteccion3
+  - zonaDeteccion2
+  - RabbitHole
+  - zonaDeteccion
+  - chest
   layers:
   - Default
   - TransparentFX
