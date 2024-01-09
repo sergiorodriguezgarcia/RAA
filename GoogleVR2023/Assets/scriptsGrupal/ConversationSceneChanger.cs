@@ -11,6 +11,6 @@ public class ConversationSceneChanger : MonoBehaviour
 
     public void OnOptionSelected()
     {
-        TryChangeScene("Laberinto"); // Reemplaza con el nombre de la escena pertinente
+        TryChangeScene("EscenaTrenes"); // Reemplaza con el nombre de la escena pertinente
     }
 }
