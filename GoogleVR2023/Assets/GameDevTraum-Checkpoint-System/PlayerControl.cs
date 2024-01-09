@@ -15,17 +15,17 @@ public class PlayerControl : MonoBehaviour
         playerInitialPosition = transform.position;
 
         checkpointSystem = FindObjectOfType<CheckpointSystem>();
-        // rigidbody = GetComponent<Rigidbody>();
+        rigidbody = GetComponent<Rigidbody>();
     }
 
     void Update()
     {
-        // rigidbody.velocity = Vector3.up * rigidbody.velocity.y + Vector3.right * speed * Input.GetAxis("Horizontal");
+        rigidbody.velocity = Vector3.up * rigidbody.velocity.y + Vector3.right * speed * Input.GetAxis("Horizontal");
 
-        // if (Input.GetKey(KeyCode.Space))
-        // {
-        //     rigidbody.velocity = rigidbody.velocity + Vector3.up;
-        // }
+        if (Input.GetKey(KeyCode.Space))
+        {
+            rigidbody.velocity = rigidbody.velocity + Vector3.up;
+        }
     }
 
     public void SetPosition(Vector3 p)
