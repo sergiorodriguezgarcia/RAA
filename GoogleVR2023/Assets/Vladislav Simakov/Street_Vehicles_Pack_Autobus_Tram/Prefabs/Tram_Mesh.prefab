@@ -51,10 +51,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -136,10 +133,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -221,10 +215,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -308,10 +299,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -410,10 +398,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -514,10 +499,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -599,10 +581,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -635,7 +614,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
-<<<<<<< HEAD
 --- !u!1 &2458870030976533238
 GameObject:
   m_ObjectHideFlags: 0
@@ -718,8 +696,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
-=======
->>>>>>> mate
 --- !u!1 &2756678698306877648
 GameObject:
   m_ObjectHideFlags: 0
@@ -771,10 +747,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -856,10 +829,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -941,10 +911,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1026,10 +993,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1111,10 +1075,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1198,10 +1159,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1285,10 +1243,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1349,10 +1304,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-<<<<<<< HEAD
   - {fileID: 7857789792101919236}
-=======
->>>>>>> mate
   - {fileID: 7716008648115892666}
   - {fileID: 3439088106020156783}
   m_Father: {fileID: 0}
@@ -1423,10 +1375,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1519,10 +1468,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1606,10 +1552,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1691,10 +1634,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1755,11 +1695,7 @@ Transform:
   m_LocalScale: {x: 1372.0121, y: 15.475577, z: 356.29236}
   m_Children: []
   m_Father: {fileID: 5996243915236452834}
-<<<<<<< HEAD
   m_RootOrder: 1
-=======
-  m_RootOrder: 0
->>>>>>> mate
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &8884162903508921609
 MeshFilter:
@@ -1780,10 +1716,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1845,11 +1778,7 @@ Transform:
   m_Children:
   - {fileID: 5938961070050267861}
   m_Father: {fileID: 5996243915236452834}
-<<<<<<< HEAD
   m_RootOrder: 2
-=======
-  m_RootOrder: 1
->>>>>>> mate
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &4223205491022466525
 MeshFilter:
@@ -1870,10 +1799,7 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
-<<<<<<< HEAD
   m_StaticShadowCaster: 0
-=======
->>>>>>> mate
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
