@@ -5,17 +5,20 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/EscenaTrenes.unity
-    guid: 7b3dbe031bf27134b9a16ab66e5001a2
   - enabled: 0
     path: Assets/Scenes/MenuVR.unity
     guid: c72266273b87f47498eea4d48bb02c61
+  - enabled: 1
+    path: Assets/Scenes/Cinematica.unity
+    guid: e840974ff17a6474b9f0e665b7e12f63
   - enabled: 1
     path: Assets/Scenes/Laberinto.unity
     guid: 3d3278eab7777e148a3396e50a1532a0
   - enabled: 1
     path: Assets/Scenes/Park.unity
     guid: 211f1ecd8d69300408b01d3dc3c4e61f
+  - enabled: 1
+    path: Assets/Scenes/EscenaTrenes.unity
+    guid: 7b3dbe031bf27134b9a16ab66e5001a2
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c8face35e7cb33446b76821934b7928c, type: 2}
